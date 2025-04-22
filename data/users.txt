@@ -1,0 +1,2 @@
+admin,Admin User,admin
+student1,Sudan Pudasaini,student
